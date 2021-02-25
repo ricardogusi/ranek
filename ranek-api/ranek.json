@@ -10,6 +10,18 @@
       "numero": "25",
       "estado": "SP",
       "cidade": "São Paulo"
+    },
+    {
+      "id": "talita@hotmail.com",
+      "nome": "Talita",
+      "email": "talita@hotmail.com",
+      "senha": "123",
+      "cep": "88380000",
+      "rua": "Lapa",
+      "numero": "536",
+      "bairro": "Itacolomi",
+      "cidade": "Balneário Piçarras",
+      "estado": "SC"
     }
   ],
   "produto": [
