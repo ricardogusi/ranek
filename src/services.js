@@ -9,8 +9,14 @@ export const api = {
     get(url) {
         return axiosInstance.get(url)
     },
-    post(url, body){
-        return axiosInstance.post(url, body)
+    post(endpoint, body){
+        return axiosInstance.post(endpoint, body)
+    },
+    delete(endpoint) {
+        return axiosInstance.delete(endpoint)
+    },
+    put(endpoint, body){
+        return axiosInstance.put(endpoint, body)
     }
 }
 
